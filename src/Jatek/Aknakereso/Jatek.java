@@ -198,4 +198,12 @@ public class Jatek {
     public boolean isGameOnGoing() {
         return gameOnGoing;
     }
+
+    public int getMineNumber() {
+        return mineNumber;
+    }
+
+    public int getNotMine() {
+        return notMine;
+    }
 }
