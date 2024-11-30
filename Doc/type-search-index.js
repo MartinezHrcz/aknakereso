@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Jatek.Kivetel","l":"AknakeresoException"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Jatek.Aknakereso","l":"Jatek"},{"p":"Jatek.Runner","l":"Runner"}];updateSearchResults();
